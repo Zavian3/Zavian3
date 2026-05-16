@@ -353,33 +353,6 @@ Robust scraping framework with intelligent IP rotation and anti-detection mechan
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zavian3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zavian3&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" alt="Top languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Zavian3&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" alt="GitHub streak" />
-
-<br><br>
-
-<a href="https://github.com/Zavian3">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Zavian3&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" alt="Contributor stats" />
-</a>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zavian3&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies" />
-
-</div>
-
-> 💡 *Most of my work lives in private repositories — the contribution graph on my profile reflects 2,000+ contributions across production AI/ML projects, internal tooling, and client work.*
-
----
-
 ## 🎓 Certifications
 
 <table>
