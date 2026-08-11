@@ -33,7 +33,7 @@ experience:  4+ years architecting production ML systems
 expertise:   RAG · LLM Agents · Voice AI · Computer Vision · NLP · MLOps · Automation
 scale:       Systems serving 1,000+ daily users · 95%+ accuracy benchmarks
 location:    Lahore, Pakistan  (Open to remote worldwide)
-education:   BS Data Science, FAST-NUCES
+education:   MS Artificial Intelligence (LUMS), BS Data Science (FAST-NUCES)
 ```
 
 I build **end-to-end ML systems that ship to production** — not notebooks, not demos. My work spans RAG pipelines processing 500+ daily queries, computer vision systems running at the edge, voice AI agents handling real customer calls, and ML infrastructure scaling 10x without breaking a sweat. I care about reliability, observability, and the unglamorous engineering that keeps models running at 3 AM.
